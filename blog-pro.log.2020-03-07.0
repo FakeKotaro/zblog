@@ -1,0 +1,10 @@
+2020-03-07 12:03:35.265  INFO 10928 --- [main] com.zjw.myblog.MyblogApplicationTests    : Starting MyblogApplicationTests on LAPTOP-EHDURK2F with PID 10928 (started by 66462 in C:\Users\66462\Desktop\myblog)
+2020-03-07 12:03:35.271  INFO 10928 --- [main] com.zjw.myblog.MyblogApplicationTests    : The following profiles are active: pro
+2020-03-07 12:03:38.217  WARN 10928 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-03-07 12:03:41.882  WARN 10928 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-03-07 12:03:42.904  INFO 10928 --- [main] com.zjw.myblog.MyblogApplicationTests    : Started MyblogApplicationTests in 8.314 seconds (JVM running for 10.289)
+2020-03-07 12:08:48.739  INFO 12784 --- [main] com.zjw.myblog.MyblogApplicationTests    : Starting MyblogApplicationTests on LAPTOP-EHDURK2F with PID 12784 (started by 66462 in C:\Users\66462\Desktop\myblog)
+2020-03-07 12:08:48.742  INFO 12784 --- [main] com.zjw.myblog.MyblogApplicationTests    : The following profiles are active: pro
+2020-03-07 12:08:51.213  WARN 12784 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-03-07 12:08:54.913  WARN 12784 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-03-07 12:08:55.816  INFO 12784 --- [main] com.zjw.myblog.MyblogApplicationTests    : Started MyblogApplicationTests in 7.665 seconds (JVM running for 8.916)

@@ -1,0 +1,135 @@
+@charset "utf-8";
+
+body {
+    background: url("../images/bg.png");
+}
+
+.m-padding-tb-mini {
+    padding-top: 0.2em !important;
+    padding-bottom: 0.2em !important;
+    padding-left: 0em !important;
+}
+
+
+.m-padding-tb-small {
+    padding-top: 2em !important;
+    padding-bottom: 2em !important;
+}
+
+.m-padding-tb-large {
+    padding-top: 3em !important;
+    padding-bottom: 3em !important;
+}
+
+.m-padding-large {
+    padding: 3em 2em !important;
+}
+
+.m-padding-larger {
+    padding: 4em 2.5em !important;
+}
+
+.m-padding-small {
+    padding: 1em !important;
+}
+
+.m-padding-tb-larger {
+    padding-top: 4em !important;
+    padding-bottom: 4em !important;
+
+}
+
+.m-padding-tb-massive {
+    padding-top: 4em !important;
+    padding-bottom: 3em !important;
+}
+
+.m-padding-lr-responsive {
+    padding-left: 6em !important;
+    padding-right: 6em !important;
+}
+
+.m-margin-tb-tiny {
+    margin-top: 0.3em !important;
+    margin-bottom: 0.3em !important;
+}
+
+.m-margin-small{
+    margin: 1em !important;
+}
+
+.m-margin-top-small {
+    margin-top: 3.2em !important;
+}
+
+.m-margin-lr-small {
+    margin-right: 1em !important;
+    margin-left: 1em !important;
+}
+
+.m-right-top {
+    position: absolute;
+    top: 0.4em;
+    right: 0;
+}
+.m-fixed {
+    position: fixed !important;
+    z-index: 10 !important;
+}
+
+.m-right-bottom {
+    bottom: 0 !important;
+    right: 0 !important;
+}
+
+.m-text {
+    opacity: 0.75; !important;
+    line-height: 1.5; !important;
+    letter-spacing: 0.4px; !important;
+}
+
+.m-text-font-big {
+    font-size: 17px !important;
+}
+
+.m-text-space {
+    letter-spacing: 0.7px; !important;
+}
+
+.m-text-lined {
+    line-height: 1.7; !important;
+}
+
+.m-opacity-mini {
+    opacity: 0.8; !important;
+}
+
+.m-inline-block {
+    display: inline-block !important;
+}
+
+.m-mobile-show {
+    display: none !important;
+}
+
+.a-black {
+    color: #333333;
+}
+
+.a-black:hover {
+    color: teal;
+}
+
+
+@media screen and (max-width: 768px) {
+    .m-mobile-hide {
+        display: none !important;
+    }
+    .m-mobile-show {
+        display: block !important;
+    }
+    .m-padding-lr-responsive {
+        padding-left: 1em !important;
+        padding-right: 1em !important;
+    }
+}

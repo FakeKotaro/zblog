@@ -1,0 +1,5 @@
+2020-03-12 16:16:33.040  INFO 16436 --- [restartedMain] com.zjw.myblog.MyblogApplication         : Starting MyblogApplication on LAPTOP-EHDURK2F with PID 16436 (C:\Users\66462\Desktop\myblog\target\classes started by 66462 in C:\Users\66462\Desktop\myblog)
+2020-03-12 16:16:33.048  INFO 16436 --- [restartedMain] com.zjw.myblog.MyblogApplication         : The following profiles are active: pro
+2020-03-12 16:16:36.415  WARN 16436 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-03-12 16:16:38.918  WARN 16436 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-03-12 16:16:39.737  INFO 16436 --- [restartedMain] com.zjw.myblog.MyblogApplication         : Started MyblogApplication in 7.41 seconds (JVM running for 10.359)
